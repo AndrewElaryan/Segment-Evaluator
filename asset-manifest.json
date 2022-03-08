@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Segment-Evaluator/static/css/main.073c9b0a.css",
+    "main.js": "/Segment-Evaluator/static/js/main.019a4eab.js",
+    "static/js/787.f9dc374e.chunk.js": "/Segment-Evaluator/static/js/787.f9dc374e.chunk.js",
+    "static/media/logo.svg": "/Segment-Evaluator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Segment-Evaluator/index.html",
+    "main.073c9b0a.css.map": "/Segment-Evaluator/static/css/main.073c9b0a.css.map",
+    "main.019a4eab.js.map": "/Segment-Evaluator/static/js/main.019a4eab.js.map",
+    "787.f9dc374e.chunk.js.map": "/Segment-Evaluator/static/js/787.f9dc374e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.019a4eab.js"
+  ]
+}
